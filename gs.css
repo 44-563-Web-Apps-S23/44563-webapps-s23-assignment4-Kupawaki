@@ -16,8 +16,8 @@ h3, h4, h5, p {
     color: red;
     background-color: blue;
 }
-.name {
-
+.name:hover {
+    text-shadow: 1px 1px 5px green;
 }
 .HE {
     color: crimson;
